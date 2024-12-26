@@ -1,5 +1,4 @@
-![h408T6Y5GfmXBKW62l (online-video-cutter com)](https://github.com/user-attachments/assets/d695f5e1-408f-48fc-8220-319fa8df97c1)
-
+![h408T6Y5GfmXBKW62l (online-video-cutter com) (1)](https://github.com/user-attachments/assets/eee1769e-9516-4f9f-a55a-86d67cbed519)
 
 ## Hi there 👋
 
