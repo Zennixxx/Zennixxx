@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/Shkibidi_Aboba-black)
+![Static Badge](https://img.shields.io/badge/Shkibidi_Aboba-purple)
