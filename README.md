@@ -5,4 +5,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zennixxx&show_icons=true&hide_border=true&bg_color=0d1117&text_color=e7e4f1&icon_color=d8d4e2&title_color=845bd5)
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/KGhpQ5NMoWKQurlHwI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-programming-backend-KGhpQ5NMoWKQurlHwI">via GIPHY</a></p>
+![h408T6Y5GfmXBKW62l](https://github.com/user-attachments/assets/bf75d689-eb52-4d28-8eaf-894e867266a4)
