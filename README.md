@@ -14,12 +14,6 @@
   <a href="https://www.upwork.com/freelancers/~015d97b72d5982f5f9?mp_source=share">
     <img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-a371f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Zennixxx&style=for-the-badge&color=a371f7&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
@@ -27,11 +21,8 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 Currently working on **[AIEditor](https://github.com/Zennixxx/AIEditor)** — AI-powered editor
-- 💣 Built **[Minesweeper Online](https://github.com/Zennixxx/minesweeper-online)** — multiplayer minesweeper
 - 🌱 Learning: advanced TypeScript, system design, LLM integrations
 - 💼 Available for freelance projects — **[hire me on Upwork](https://www.upwork.com/freelancers/~YOUR_UPWORK_ID)**
-- ⚡ Fun fact: I write code faster than I write READMEs 😄
 
 ---
 
